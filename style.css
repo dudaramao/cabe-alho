@@ -8,6 +8,42 @@
     --pêssego: #D76C82;
     --rosa: #B03052;
     --açai:#3D0301;
+}
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: var(--bege);
+    color: var(--pêssego);
+    font-size: 16px;
+}
+main{
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: var(--rosa);
+    font-size: 4rem;
+}
+h4{
+    font-size: 2.5rem;
+}
+header{
+    display: flex;
+    width: 100%;
+    background-color: var(--bege);
+    padding: 1rem;
+    position: relative;
+    justify-content: center;
+}
 
+.menu-disciplina {
+    width: 20%;
+    display: inline-block;
 
 }
