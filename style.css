@@ -49,8 +49,7 @@ header{
 
 .menu-disciplina {
     width: 20%;
-    display: flex;
-    align-items: center;
+    display: inline-block;
 
 }
 
@@ -62,6 +61,8 @@ header{
     border: none;
     padding: 1.05rem 1.5rem;
     color: var(--açai);
+    display: flex;
+    align-items: center;
 }
 
 #menu-toggle{
