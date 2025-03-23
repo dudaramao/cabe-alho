@@ -70,7 +70,7 @@ header{
 .lista-vertical{
     display: none;
     position: absolute;
-    background-color: var(--rosa);
+    background-color: var(--bege);
     box-shadow: 0 2px 5px var(--pêssego);
     min-width: 190px;
     z-index: 1;
