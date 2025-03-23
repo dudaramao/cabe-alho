@@ -50,6 +50,7 @@ header{
 .menu-disciplina {
     width: 20%;
     display: flex;
+    align-items: center;
 
 }
 
