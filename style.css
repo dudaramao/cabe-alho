@@ -52,3 +52,81 @@ header{
     display: inline-block;
 
 }
+
+.botao-disciplinas{
+    cursor: pointer;
+    font-size: 2rem;
+    background: none;
+    background-color: var(--bege);
+    border: none;
+    padding: 1.05rem 1.5rem;
+    color: var(--açai);
+}
+
+#menu-toggle{
+    display: none;
+}
+
+.lista-vertical{
+    display: none;
+    position: absolute;
+    background-color: var(--açai);
+    box-shadow: 0 2px 5px var(--pêssego);
+    min-width: 190px;
+    z-index: 1;
+    left: 1rem;
+    top: 100%;
+}
+
+.lista-vertical a {
+    color: var(--açai);
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+}
+
+.lista-vertical a:hover{
+    background-color: var(--bege);
+}
+
+#menu-toogle:checked ~ .lista-vertical{
+    display: block;
+}
+
+#menu-toogle:checked + .botao-disciplinas{
+    background-color: var(--açai);
+}
+
+.barra-pesquisa{
+    width: 50%;
+}
+
+.barra-pesquisa input{
+    width: 60%;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+
+.links-principais{
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.lista-horizontal{
+    list-style: none;
+    display: flex;
+    font-size: 2rem;
+    gap: 4rem;
+}
+a {
+    text-decoration: none;
+    color: var(--bege);
+}
+
+a:hover{
+    color: var(--açai);
+}
