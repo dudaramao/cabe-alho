@@ -13,8 +13,8 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: var(--bege);
-    color: var(--pêssego);
+    background-color: var(--açai);
+    color: var(--bege);
     font-size: 16px;
 }
 
@@ -30,7 +30,7 @@ main{
 }
 
 h1{
-    color: var(--rosa);
+    color: var(--açai);
     font-size: 4rem;
 }
 
@@ -41,7 +41,7 @@ h4{
 header{
     display: flex;
     width: 100%;
-    background-color: var(--bege);
+    background-color: var(--pêssego);
     padding: 1rem;
     position: relative;
     justify-content: center;
@@ -88,7 +88,7 @@ header{
 }
 
 .lista-vertical a:hover{
-    background-color: var(--bege);
+    background-color: var(--pêssego);
 }
 
 #menu-toogle:checked ~ .lista-vertical{
