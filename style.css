@@ -9,6 +9,7 @@
     --rosa: #B03052;
     --açai:#3D0301;
 }
+
 body{
     height: 100vh;
     box-sizing: border-box;
@@ -16,6 +17,7 @@ body{
     color: var(--pêssego);
     font-size: 16px;
 }
+
 main{
     left: 0;
     top: 0;
@@ -26,13 +28,16 @@ main{
     justify-content: center;
     align-items: center;
 }
+
 h1{
     color: var(--rosa);
     font-size: 4rem;
 }
+
 h4{
     font-size: 2.5rem;
 }
+
 header{
     display: flex;
     width: 100%;
