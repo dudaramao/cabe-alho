@@ -81,6 +81,8 @@ h1 {
     display: block;
 }
 
-.text{
-    
+h2{
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
 }
