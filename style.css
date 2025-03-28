@@ -1,8 +1,5 @@
 :root{
-    --bege: #EBE8DB;
     --rosinha:#f88cbc;
-    --pêssego: #D76C82;
-    --rosa: #B03052;
     --açai:#3D0301;
 }
 
@@ -47,6 +44,7 @@ h1 {
 }
 
 .materia-links a:hover {
+    color:var(--bege);
     text-decoration: underline;
     font-size: 22px; 
 }
