@@ -12,7 +12,7 @@ body {
 
 header {
     padding: 15px;
-    background-color: var(--açai);
+    background-color: var(--pêssego);
     grid-template-columns: 95% 5%;
     display: grid;
 }
