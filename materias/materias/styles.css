@@ -84,6 +84,7 @@ h1 {
 .conteúdos li{
     display: flex;
     align-content: flex-start;
+    padding: 10px;
 }
 
 h2{
@@ -91,3 +92,4 @@ h2{
     display: flex;
     justify-content: center;
 }
+
