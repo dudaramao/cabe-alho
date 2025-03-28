@@ -35,3 +35,16 @@ h1 {
     align-items: center;
     margin: 0 auto;
 }
+
+.menu {
+    list-style: none;
+    position: absolute;
+    right: 0;
+    top: 40px;
+    background: var(--açai);
+    width: 150px;
+    padding: 0;
+    margin: 0;
+    display: none;
+    border-radius: 5px;
+}
