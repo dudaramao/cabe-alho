@@ -1,0 +1,26 @@
+:root{
+    --rosinha:#505bd4;
+    --açai:#000f65;
+    color: #b3b3f7;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--rosinha);
+}
+
+header {
+    padding: 15px;
+    background-color: var(--açai);
+    grid-template-columns: 95% 5%;
+    display: grid;
+
+}
+
+h1 {
+    color: var(--bege);
+    display: flex;
+    justify-content: center;
+}
