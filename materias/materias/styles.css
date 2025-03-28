@@ -25,3 +25,13 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+.hamburguer {
+    position: relative;
+}
+
+.botao-menu {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
