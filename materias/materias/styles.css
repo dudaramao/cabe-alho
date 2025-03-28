@@ -86,3 +86,9 @@ h2{
     display: flex;
     justify-content: center;
 }
+
+p{
+    display: flex;
+    align-content: flex-start;
+    justify-content: space-evenly;
+}
