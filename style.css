@@ -1,6 +1,8 @@
 :root{
     --rosinha:#f88cbc;
     --açai:#3D0301;
+    color: beige;
+
 }
 
 body {
@@ -38,7 +40,7 @@ h1 {
 }
 
 .materia-links a {
-    color: var(--bege);
+    color: var(beige);
     text-decoration: none;
     font-size: 20px;  
 }
@@ -60,7 +62,7 @@ h1 {
 
 .menu-btn {
     font-size: 24px;
-    color: var(--bege);
+    color: var(beige);
     cursor: pointer;
     user-select: none;
 }
@@ -84,7 +86,7 @@ h1 {
 }
 
 .menu li a {
-    color: var(--bege);
+    color: var(beige);
     text-decoration: none;
     display: block;
 }
