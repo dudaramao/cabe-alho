@@ -81,7 +81,7 @@ h1 {
     display: block;
 }
 
-h2{
+h1{
     color: var(--açai);
     display: flex;
     justify-content: center;
