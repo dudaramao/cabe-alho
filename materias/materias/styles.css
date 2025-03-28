@@ -1,14 +1,15 @@
 :root{
     --rosinha:#505bd4;
     --açai:#000f65;
-    color: #b3b3f7;
+    --color: #b3b3f7;
+    --branco:#ffffff;
 
 }
 
 body {
     margin: 0;
     padding: 0;
-    background-color: var(--rosinha);
+    background-color: var(--color);
 }
 
 header {
@@ -20,7 +21,7 @@ header {
 }
 
 h1 {
-    color: var(--bege);
+    color: var(--branco);
     display: flex;
     justify-content: center;
 }
