@@ -38,7 +38,7 @@ h1 {
 
 .menu-btn {
     font-size: 24px;
-    color: var(bege);
+    color: var(--branco);
     cursor: pointer;
     user-select: none;
 }
