@@ -96,5 +96,5 @@ h2{
 h3{
     color: var(--açai);
     display: flex;
-    justify-content: center;
+    align-content: flex-start;
 }
