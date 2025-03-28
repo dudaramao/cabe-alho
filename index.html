@@ -3,39 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cabeçalho-Disciplinas</title>
+    <title>Portifólio de Estudos</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <header style="grid-template-columns: 95% 5%;">
+    <header>
         <div>
-            <h1>Portifólio</h1>
+            <h1>Portifólio de Estudos</h1>
         </div>
-        <div class="menu-disciplina">
-            <input type="checkbox" id="menu-toggle">
-            <label for="menu-toggle" class="botao-disciplinas">
-                <i class="fa fa-bars">
-                    ::before
-                </i>
-            </label>
-            <div class="lista-vertical">
-                <li> <a href="#">Química</a></li>
-               <li><a href="#">Literatura</a></li>
-               <li> <a href="#">História</a></li>
-            </div>
-        </div>
-
-        <div class="lista-principais">
-            </div>
-            <ul class="lista-horizontal">
-                <li><a href="#">Atividades</a></li>
-                <li><a href="#">Provas</a></li>
-                <li><a href="#">Slides</a></li>
-            </ul>
+        <div class="botao-menu">
+            <nav class="hamburguer">
+                <input type="checkbox" id="menu-toggle">
+                <label for="menu-toggle" class="menu-btn">
+                    <i class="fa fa-bars"></i>
+                </label>
+                <ul class="menu">
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./materias/matematica.html">Matemática</a></li>
+                    <li><a href="./materias/fisica.html">Física</a></li>
+                    <li><a href="./materias/quimica.html">Quimica</a></li>
+                    <li><a href="./materias/biologia.html">Biologia</a></li>
+                </ul>
+            </nav>
         </div>
     </header>
-    <main>
-    </main>
-    <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>
+    
+    
