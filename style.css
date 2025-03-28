@@ -44,7 +44,6 @@ h1 {
 }
 
 .materia-links a:hover {
-    color:var(--bege);
     text-decoration: underline;
     font-size: 22px; 
 }
