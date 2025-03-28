@@ -15,10 +15,13 @@ header {
     background-color: var(--rosa);
     grid-template-columns: 95% 5%;
     display: grid;
+
 }
 
 h1 {
     color: var(--bege);
+    display: flex;
+    justify-content: center;
 }
 
 .materia-links {
