@@ -93,3 +93,8 @@ h1{
     justify-content: center;
 }
 
+h3{
+    color: var(--açai);
+    display: flex;
+    justify-content: center;
+}
