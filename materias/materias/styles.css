@@ -82,19 +82,12 @@ h1 {
 }
 
 .conteúdos li{
-    text-align: center;
-    padding: 50px;
-    text-decoration: none;
-
+    display: flex;
+    align-content: flex-start;
 }
 
 h2{
     color: var(--açai);
     display: flex;
     justify-content: center;
-}
-
-p{
-    display: flex;
-    align-content: flex-start;
 }
