@@ -1,5 +1,6 @@
 :root{
     --bege: #EBE8DB;
+    --rosinha:#f88cbc;
     --pêssego: #D76C82;
     --rosa: #B03052;
     --açai:#3D0301;
@@ -8,7 +9,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: var(--pêssego);
+    background-color: var(--rosinha);
 }
 
 header {
