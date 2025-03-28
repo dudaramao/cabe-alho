@@ -81,6 +81,13 @@ h1 {
     display: block;
 }
 
+.conteúdos li{
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
 h2{
     color: var(--açai);
     display: flex;
