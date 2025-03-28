@@ -91,6 +91,7 @@ h1 {
     color: var(beige);
     text-decoration: none;
     display: block;
+    color: beige;
 }
 
 .menu li:hover {
