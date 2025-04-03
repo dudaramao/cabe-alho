@@ -38,7 +38,7 @@ h1 {
 
 .menu-btn {
     font-size: 24px;
-    color: var(bege);
+    color: var(--branco);
     cursor: pointer;
     user-select: none;
 }
@@ -48,7 +48,7 @@ h1 {
     position: absolute;
     right: 0;
     top: 40px;
-    background: var(--açai);
+    background: var(--rosinha);
     width: 150px;
     padding: 0;
     margin: 0;
