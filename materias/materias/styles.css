@@ -21,21 +21,21 @@ header {
 }
 
 h1 {
-    font-size: 35px;
+    font-size: 55px;
     color: var(--branco);
     display: flex;
     justify-content: center;
 }
 
 h2{
-    font-size: 25px;
+    font-size: 35px;
     color: var(--açai);
     display: flex;
     justify-content: center;
 }
 
 h3{
-    font-size: 25px;
+    font-size: 35px;
     color: var(--açai);
     display: flex;
     justify-content: center;
