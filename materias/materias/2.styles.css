@@ -89,13 +89,13 @@ h1 {
 h2{
     color: var(--açai);
     display: flex;
-    justify-content: center;
+    justify-content:left;
 }
 
 h3{
     color: var(--açai);
     display: flex;
-    justify-content: center;
+    justify-content:left;
 }
 
 
