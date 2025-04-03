@@ -3,6 +3,7 @@
     --açai:#d57aad;
     --color: #f5c4eb;
     --branco:#ffffff;
+    --chiclete: #c7659c;
 
 }
 
@@ -48,7 +49,7 @@ h1 {
     position: absolute;
     right: 0;
     top: 40px;
-    background: var(--açai);
+    background: var(--chiclete);
     width: 150px;
     padding: 0;
     margin: 0;
