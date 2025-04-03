@@ -96,7 +96,7 @@ h1 {
 }
 
 .menu li:hover {
-    background: var(#f88cbc);
+    background-color: #f88cbc;
 }
 #menu-toggle {
     display: none;
