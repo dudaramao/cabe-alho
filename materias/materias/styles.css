@@ -26,6 +26,20 @@ h1 {
     justify-content: center;
 }
 
+h2{
+    font-size: 28.5px;
+    color: var(--açai);
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    font-size: 35px;
+    color: var(--açai);
+    display: flex;
+    justify-content: center;
+}
+
 .hamburguer {
     position: relative;
 }
