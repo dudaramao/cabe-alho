@@ -71,7 +71,7 @@ h1 {
 }
 
 .menu li:hover {
-    background: var(--rosaesc);
+    background: var(--açai);
 }
 #menu-toggle {
     display: none;
