@@ -2,6 +2,7 @@
     --rosinha:#f88cbc;
     --rosas: #B03052;
     color: beige;
+    --rosaesc: #7e1c36;
 
 }
 
@@ -95,7 +96,7 @@ h1 {
 }
 
 .menu li:hover {
-    background: var(--rosas);
+    background: var(--rosaesc);
 }
 #menu-toggle {
     display: none;
