@@ -1,6 +1,6 @@
 :root{
     --rosinha:#f88cbc;
-    color: #B03052
+    color: #B03052;
     color: beige;
 
 }
@@ -13,7 +13,7 @@ body {
 
 header {
     padding: 15px;
-    background-color: var(--açai);
+    background-color: var(#B03052);
     grid-template-columns: 95% 5%;
     display: grid;
 
