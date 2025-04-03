@@ -96,7 +96,7 @@ h1 {
 }
 
 .menu li:hover {
-    background: var(--rosas);
+    background: var(--rosinha);
 }
 #menu-toggle {
     display: none;
