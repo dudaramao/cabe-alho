@@ -52,7 +52,6 @@ h1 {
 
 .hamburguer {
     position: relative;
-    color:#B03052;
 }
 
 .botao-menu {
@@ -73,7 +72,7 @@ h1 {
     position: absolute;
     right: 0;
     top: 40px;
-    background: var(--rosas);
+    background: var(--açai);
     width: 150px;
     padding: 0;
     margin: 0;
@@ -96,7 +95,7 @@ h1 {
 }
 
 .menu li:hover {
-    color: #f88cbc;
+    background: var(--rosa);
 }
 #menu-toggle {
     display: none;
