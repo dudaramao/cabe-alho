@@ -10,6 +10,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--color);
+    text-align: center;
 }
 
 header {
@@ -37,7 +38,7 @@ h3{
     font-size: 27.5px;
     color: var(--açai);
     display: flex;
-    text-align: center;
+    justify-content: center;
 }
 
 h4{
