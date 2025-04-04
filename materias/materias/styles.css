@@ -30,7 +30,6 @@ h2{
     font-size: 30px;
     color: var(--açai);
     display: flex;
-    justify-content: center;
     text-align: center;
 }
 
@@ -39,7 +38,6 @@ h3{
     color: var(--açai);
     display: flex;
     justify-content: center;
-    text-align: center;
 }
 
 h4{
@@ -47,7 +45,6 @@ h4{
     color: var(--açai);
     display: flex;
     justify-content: center;
-    text-align: center;
 }
 
 .hamburguer {
