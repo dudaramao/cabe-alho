@@ -3,6 +3,7 @@
     --açai:#7a83da;
     --color: #e1e4ff;
     --branco:#ffffff;
+    --nublado: #6156d4;
 
 }
 
@@ -72,7 +73,7 @@ h1 {
 }
 
 .menu li:hover {
-    background: var(--chiclete);
+    background: var(--nublado);
 }
 #menu-toggle {
     display: none;
