@@ -30,6 +30,7 @@ h2{
     font-size: 30px;
     color: var(--açai);
     display: flex;
+    justify-content: center;
     text-align: center;
 }
 
