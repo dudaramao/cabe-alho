@@ -97,3 +97,23 @@ h3{
     justify-content: center;
     background-color: var(--açai);
 }
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    unicode-bidi: isolate;
+}
+
+li{
+    margin: 10px;
+}
+
+footer{
+    padding: 15px;
+    background-color: var(--açai);
+    grid-template-columns: 95% 5%;
+    display: grid;
+}
