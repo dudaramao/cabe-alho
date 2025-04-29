@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--color);
-    text-align: center;
+
 }
 
 header {
@@ -23,20 +23,6 @@ header {
 
 h1 {
     color: var(--branco);
-    display: flex;
-    justify-content: center;
-}
-
-h2{
-    font-size: 30px;
-    color: var(--açai);
-    display: flex;
-    justify-content: center;
-}
-
-h3{
-    font-size: 27.5px;
-    color: var(--açai);
     display: flex;
     justify-content: center;
 }
@@ -79,6 +65,7 @@ h4{
 }
 
 .menu li {
+    text-align: center;
     padding: 10px;
     text-decoration: none;
     color: beige;
@@ -102,8 +89,8 @@ h4{
     display: block;
 }
 
-
-
-h4{
-    text-align: center;
+p{
+    display: grid;
+    justify-items: start;
+    align-content: space-between;
 }
