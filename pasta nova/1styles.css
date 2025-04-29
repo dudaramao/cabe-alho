@@ -29,9 +29,10 @@ h1 {
 
 h4{
     font-size: 27.5px;
-    color: var(--açai);
+    color: var(--branco);
     display: flex;
     justify-content: center;
+    background-color: var(--açai);
 }
 
 .hamburguer {
