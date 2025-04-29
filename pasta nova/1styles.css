@@ -79,7 +79,6 @@ h4{
 }
 
 .menu li {
-    text-align: center;
     padding: 10px;
     text-decoration: none;
     color: beige;
@@ -103,8 +102,8 @@ h4{
     display: block;
 }
 
-p{
-    display: grid;
-    justify-items: start;
-    align-content: space-between;
+
+
+h4{
+    text-align: center;
 }
