@@ -79,6 +79,7 @@ h4{
 }
 
 .menu li {
+    text-align: center;
     padding: 10px;
     text-decoration: none;
     color: beige;
@@ -103,5 +104,5 @@ h4{
 }
 
 p{
-    text-align: left;
+
 }
