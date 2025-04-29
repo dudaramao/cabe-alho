@@ -107,3 +107,6 @@ footer{
     display: grid;
 }
 
+li{
+    margin: 10px;
+}
