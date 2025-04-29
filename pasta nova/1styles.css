@@ -76,7 +76,8 @@ h4{
     text-decoration: none;
     display: block;
     color: beige;
-
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
 }
 
 .menu li:hover {
