@@ -83,13 +83,12 @@ h4{
 .menu li:hover {
     background: var(--rosinha);
 }
+
 #menu-toggle {
     display: none;
 }
 
-#menu-toggle:checked + .menu-btn + .menu {
-    display: block;
-}
+
 
 p{
     display: block;
