@@ -98,3 +98,7 @@ p{
     unicode-bidi: isolate;
 }
 
+h5{
+    color: var(--tw-prose-bold);
+    font-weight:
+}
