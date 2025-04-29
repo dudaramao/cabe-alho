@@ -11,7 +11,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--color);
-    text-align: center;
 }
 
 header {
@@ -81,4 +80,20 @@ h1 {
 
 #menu-toggle:checked + .menu-btn + .menu {
     display: block;
+}
+
+h4{
+    font-size: 27.5px;
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    background-color: var(--açai);
+}
+
+h3{
+    font-size: 27px;
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    background-color: var(--açai);
 }
